@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+      "noImplicitAny": true,
+      "removeComments": true,
+      "preserveConstEnums": false,
+      "allowSyntheticDefaultImports": true,
+      "sourceMap": false,
+      "lib": ["es2015","DOM"],
+      "outDir": "./dist"  
+  },
+  "include": [
+    "./src/**/*.ts"
+]
+}
