@@ -1,8 +1,8 @@
 {
-  "name": "babel-demo",
+  "name": "babel-plugin-number-transform",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "jest --verbose --watchAll"
   },
